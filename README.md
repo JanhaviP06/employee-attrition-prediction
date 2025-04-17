@@ -45,3 +45,25 @@ This project aims to predict whether an employee is likely to leave the company 
 2. Run the Streamlit App
    ```bash
    streamlit run app.py
+
+## Screenshots:
+
+![image](https://github.com/user-attachments/assets/5fbcf4ec-2189-43df-aa32-99f568fa59fb)
+
+![image](https://github.com/user-attachments/assets/6afdf218-04dc-4341-adf6-d911813d2866)
+
+![image](https://github.com/user-attachments/assets/034ae4d3-7c11-4b51-b0e7-0e5f06342604)
+
+![image](https://github.com/user-attachments/assets/447b342e-f564-40ba-90b3-23f87c24a071)
+
+![image](https://github.com/user-attachments/assets/d7b07d6b-dfba-47a4-b5b9-a85d8e046d9e)
+
+![image](https://github.com/user-attachments/assets/5dbfbb6d-0845-4ac5-99a7-1be8b3aa86b4)
+
+![image](https://github.com/user-attachments/assets/690853f8-2751-4e00-8e4d-b802fd967c77)
+
+![image](https://github.com/user-attachments/assets/d05e4f6d-d9ad-4359-ae80-1e71ed2fc146)
+![image](https://github.com/user-attachments/assets/b654c704-7c9b-4008-ae40-c61058fff0b0)
+
+![image](https://github.com/user-attachments/assets/5bae88f1-d5a5-4130-93d3-0202c9b7a2c7)
+
